@@ -6,7 +6,6 @@ default_language = "en"
 
 theme = "zerm"
 
-generate_rss = false
 compile_sass = true
 
 taxonomies = [
@@ -14,7 +13,6 @@ taxonomies = [
     {name = "categories"},
 ]
 
-center = true
 
 [markdown]
 highlight_code = true

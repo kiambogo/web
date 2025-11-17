@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://kiambogo.ca/sitemap.xml
